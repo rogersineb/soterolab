@@ -14,7 +14,7 @@ Através da realização de cursos e workshops de forma gratuita ou cobrando um 
 
 ## Quais os primeiros passos?
 - Definir o código de conduta;
-- Criar uma organização no GIT de forma a subir materiais que se apliquem em formato reutilizável, inclusive esse reposítório que vai centralizar as informações da organização.
+- Criar uma organização no GIT de forma a subir materiais que se apliquem em formato reutilizável, inclusive esse repositório que vai centralizar as informações da iniciativa.
 
 ## Quais cursos no primeiro momento? 
 - Eleições 2020: Entendendo as eleições de 2016 (Curso direcionado a mulheres negras que pretendem se candidatar a eleição 2020 ou que atuam como líderes de comunidade)
