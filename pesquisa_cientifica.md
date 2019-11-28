@@ -3,6 +3,7 @@
 ## - Ciência, Pesquisa e Método Científico
 ## - Partes de uma pesquisa científica
 ## - Qual a relação entre problema de pesquisa, questão de pesquisa, hipótese e objetivo? Todas são obrigatórias?
+## - Tipos de pesquisa
 ## - Ciência Aberta e Ciência Reproduzível
 
 ### Saiba mais:
