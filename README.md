@@ -13,8 +13,8 @@ Através da realização de cursos e workshops de forma gratuita ou cobrando um 
 - Realização de atividades de formação a cada bimestre.
 
 ## Quais os primeiros passos?
-- Definir o código de conduta;
-- Criar uma organização no GIT de forma a subir materiais que se apliquem em formato reutilizável, inclusive esse repositório que vai centralizar as informações da iniciativa.
+- ~~Criar uma organização no GIT de forma a subir materiais que se apliquem em formato reutilizável, inclusive esse repositório que vai centralizar as informações da iniciativa.~~
+- Definir o código de conduta - [Em desenvolvimento](https://github.com/soterolab/soterolab/wiki/C%C3%B3digo-de-Conduta)
 
 ## Quais os possíveis cursos no primeiro momento? 
 - Eleições 2020: Entendendo as eleições de 2016 (Curso direcionado a mulheres negras que pretendem se candidatar a eleição 2020 ou que atuam como líderes de comunidade)
@@ -22,5 +22,3 @@ Através da realização de cursos e workshops de forma gratuita ou cobrando um 
 - Introdução a Python
 - Introdução a R
 - Matemática computacional
-- Usando python para resolver seus exercícios de matemática
-- Usando python para resolver seus exercícios de física
