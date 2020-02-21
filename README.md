@@ -1,5 +1,5 @@
 # Soterolab
-SoteroLab - Comunidade para incentivar e apoiar o protagonismo popular em pesquisas científicas. A meta a longo prazo é se tornar um centro de pesquisa aplicada em Salvador. Mas nesse primeiro momento o objetivo é trabalhar na construção de conhecimento coletivo sobre utilização do método científico e ciência de dados.
+SoteroLab - Comunidade para incentivar e apoiar o protagonismo popular em pesquisas científicas. A meta a longo prazo é se tornar um centro de pesquisa aplicada em Salvador. Mas nesse primeiro momento o objetivo é trabalhar na difusão de conhecimentos utilizando métodos científicos no contexto da ciência de dados.
 
 ## De que forma? 
 Através da realização de cursos e workshops de forma gratuita ou cobrando um valor simbólico apenas para sanar os custos com o evento. Uma outra forma é a realização de projetos científicos para responder questões do dia a dia das pessoas envolvidas, como análise de rotas de ônibus em Salvador.
